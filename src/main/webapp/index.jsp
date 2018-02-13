@@ -45,7 +45,7 @@
       <div class="navbar-inner">
         <div class="container">
           <a class="brand">
-            Borcelik | HRC KDS Uygulamasi
+            Borcelik | HRC KDS Uygulamasis
           </a>
           <ul class="nav">
           </ul>
