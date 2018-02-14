@@ -8,23 +8,11 @@
   
   <head>
     <meta charset="utf-8">
-    <style type="text/css">
-    .btn-lg {
-        padding: 10px 16px;
-	    font-size: 18px;
-	    line-height: 1.3333333;
-	    border-radius: 6px;
-    }
-    </style>
-    <title>
-    </title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HRC Karar Destek Sistemi</title>
     <!-- Le styles -->
     <link href="assets/css/bootstrap.css" rel="stylesheet">
-    <style>
-      body { padding-top: 60px; /* 60px to make the container go all the way
-      to the bottom of the topbar */ }
-    </style>
+    <link href="assets/css/style.css" rel="stylesheet">
     <link href="assets/css/bootstrap-responsive.css" rel="stylesheet">
     <!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
     <!--[if lt IE 9]>
@@ -40,7 +28,7 @@
     <style>
     </style>
   </head>
-  <body style="background-image: url(assets/img/bg.gif)">
+  <body>
     <div class="navbar navbar-fixed-top navbar-inverse">
       <div class="navbar-inner">
         <div class="container">
